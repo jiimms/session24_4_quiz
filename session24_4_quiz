@@ -1,0 +1,31 @@
+Quiz
+
+1.Version Control is maintaining  
+a) versions of source code  --correct
+b) versions of controller code S 
+c) cripting Language  
+d) None  
+
+2.Git is  
+a) Central Version Controll  
+b) Middle Version Controll  
+c) Distributed Version Control  --correct
+d) None 
+
+3.Github is  
+a) Hosting service  --correct
+b) Version manager  
+c) Both  
+d) None  
+
+4.How will you commit your code to git  
+a) gitinit  
+b) git commit -m "msg"  --correct
+c) git add . 
+d) None   
+  
+5.What is the command used to push from git to heroku  
+a) git push origin master  
+b) git push heroku master --correct
+c) git commit  
+d) none
